@@ -1,4 +1,3 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Anukriti Shrivastava</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="center" alt="Coding" width="400" src="https://media.istockphoto.com/id/1215092800/vector/young-happy-girl-in-home-clothes-is-sitting-in-a-chair-with-a-laptop-in-headphones-vector.jpg?s=612x612&w=0&k=20&c=r79s-4xKZkhPJRVqkihBiWGmSy2FQJz1TraEv5O1jKY=">
