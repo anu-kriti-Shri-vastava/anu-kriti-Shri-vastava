@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anukriti&label=Profile%20views&color=0e75b6&style=flat" alt="anukriti" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **shrivastava.anukriti.2017312@gmail.com**
 
